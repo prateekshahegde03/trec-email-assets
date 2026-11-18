@@ -1,0 +1,1 @@
+# trec-email-assets
